@@ -7,15 +7,15 @@ CCTV纪录,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvjilu_2/index.m3u8
 CCTV科教,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
 CCTV新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 第一财经,http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
-美国ABC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-亚洲电视CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+美国ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+亚洲电视CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-半岛电视,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛电视新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
-中广新闻,http://stream.rcs.revma.com/78fm9wyy2tzuv
-中广流行,http://stream.rcs.revma.com/aw9uqyxy2tzuv
-中广音乐,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
 台湾98新闻,http://stream.rcs.revma.com/55tyxsy4qtzuv.m3u
 美国之音,https://voaaudio-lh.akamaihd.net/i/PACKVOA151_124L@824401/master.m3u8
 法广循环,http://icepe1.infomaniak.ch/rfienchinois-64.mp3
@@ -45,13 +45,13 @@ HIT FM,http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 台湾CityFM|城市,http://fm929.cityfm.tw:8080/929.mp3
 新加坡CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 新加坡LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-one FM,https://mediaprima.rastream.com/mediaprima-onefm
+新加坡one FM,https://mediaprima.rastream.com/mediaprima-onefm
 MY,https://astro1.rastream.com/myfm
-988友声有色,http://23023.live.streamtheworld.com/988_FMAAC.aac
-好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
-UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
-YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
-CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+新加坡988友声有色,http://23023.live.streamtheworld.com/988_FMAAC.aac
+新加坡好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
+新加坡UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
+新加坡YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 长沙交通,http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 长沙音乐,http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
 长沙城市,http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
@@ -66,7 +66,7 @@ CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 湖南年代,http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 北京经典,http://live.funhillrm.com/4/sd/live.m3u8
 山东音乐,http://ls.qingting.fm/live/1665.m3u8
-1055经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+陕西1055经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 湖南交通广播,http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
 湖南新闻,http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
 广东新闻广播,http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
