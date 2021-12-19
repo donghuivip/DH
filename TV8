@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-id="1" tvg-name="OK"
+#EXTINF:-1 tvg-id="27"group-title="电视"
 凤凰资讯,https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 CCTV综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 CCTV经济,http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
@@ -11,6 +12,7 @@ CCTV新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 亚洲电视CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 半岛电视新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="27"group-title="境外广播"
 RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
@@ -19,6 +21,7 @@ RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
 台湾98新闻,http://stream.rcs.revma.com/55tyxsy4qtzuv.m3u
 美国之音,https://voaaudio-lh.akamaihd.net/i/PACKVOA151_124L@824401/master.m3u8
 法广循环,http://icepe1.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 tvg-id="27"group-title="常听广播"
 深圳先锋,http://ls.qingting.fm/live/1270.m3u8
 深圳飞扬,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 深圳生活,http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
