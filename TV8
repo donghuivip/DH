@@ -33,7 +33,7 @@ NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580
 大爱海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-id="27"group-title="广播"
+#EXTINF:-1 tvg-id="27"group-title="常听广播"
 RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
@@ -75,6 +75,7 @@ HIT FM,http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 长三角之声🛰️,http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 第一财经广播🛰️,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 tvg-id="27"group-title="音乐广播"
 长沙交通,http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 长沙音乐,http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
 长沙城市,http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
@@ -115,6 +116,7 @@ TED Talks,http://tunein.streamguys1.com/TEDTalks
 Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 New Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
 Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+#EXTINF:-1 tvg-id="27"group-title="综合广播"
 深圳交通广播,http://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
 羊城交通广播,http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
 南方生活广播,http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
