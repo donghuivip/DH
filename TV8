@@ -9,24 +9,6 @@ CCTV新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 第一财经,http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 亚洲电视CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="27"group-title="常听广播"
-RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
-RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
-中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
-中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
-中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
-台湾98新闻,http://stream.rcs.revma.com/55tyxsy4qtzuv.m3u
-美国之音,https://voaaudio-lh.akamaihd.net/i/PACKVOA151_124L@824401/master.m3u8
-法广循环,http://icepe1.infomaniak.ch/rfienchinois-64.mp3
-台湾CityFM|城市,http://fm929.cityfm.tw:8080/929.mp3
-新加坡CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-新加坡LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-新加坡one FM,https://mediaprima.rastream.com/mediaprima-onefm
-新加坡MY,https://astro1.rastream.com/myfm
-新加坡988友声有色,http://23023.live.streamtheworld.com/988_FMAAC.aac
-新加坡好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
-新加坡UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
-新加坡YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
-新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 深圳先锋,http://ls.qingting.fm/live/1270.m3u8
 深圳飞扬,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 深圳生活,http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
@@ -50,6 +32,24 @@ HIT FM,http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
 乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 长三角之声🛰️,http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 第一财经广播🛰️,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
+RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
+中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
+中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+台湾98新闻,http://stream.rcs.revma.com/55tyxsy4qtzuv.m3u
+美国之音,https://voaaudio-lh.akamaihd.net/i/PACKVOA151_124L@824401/master.m3u8
+法广循环,http://icepe1.infomaniak.ch/rfienchinois-64.mp3
+台湾CityFM|城市,http://fm929.cityfm.tw:8080/929.mp3
+新加坡CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+新加坡LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+新加坡one FM,https://mediaprima.rastream.com/mediaprima-onefm
+新加坡MY,https://astro1.rastream.com/myfm
+新加坡988友声有色,http://23023.live.streamtheworld.com/988_FMAAC.aac
+新加坡好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
+新加坡UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
+新加坡YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 tvg-id="27"group-title="音乐广播"
 长沙交通,http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
 长沙音乐,http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
