@@ -1,3 +1,25 @@
+#EXTINF:-1 tvg-id="27"group-title="电视台"
+凤凰资讯720P,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯HD,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+亚洲电视,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+法国24台英语,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+半岛英语http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛新闻阿拉伯语http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+日本24NEWS 新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NHK WORLD JAPANhttps://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+新华网直播,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
+上海财经http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+靖江新闻台,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+上海新闻,http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 tvg-id="27"group-title="华语广播"
 RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
