@@ -28,7 +28,7 @@ NHK WORLD JAPAN,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-#EXTINF:-1 tvg-id="27"group-title="华语广播"
+#EXTINF:-1 tvg-id="27"group-title="境外华语广播"
 RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
@@ -47,9 +47,79 @@ RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
 新加坡UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
 新加坡YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
-凤凰资讯HD,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-亚洲电视CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="27"group-title="常听广播"
+#EXTINF:-1 tvg-id="27"group-title="音乐广播"
+深圳飞扬,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+深圳生活,http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
+HIT FM,http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+长沙交通,http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
+长沙音乐,http://222.186.61.82/zhcs_radio/jjgb886__redirect__20573.m3u8
+长沙城市,http://115.238.238.218/zhcs_radio/cszs1017__redirect__20573.m3u8
+北京音乐,http://123.56.16.201:1935/live/fm974/96K/tzwj_video.m3u8
+浙江音乐,http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+江苏经典,http://satellitepull.cnr.c/live/wx32jsjdlxyy/playlist.m3u8
+江苏音乐,http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+楚天音乐,http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+四川岷江,http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+四川城市,http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+湖南摩登,http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+湖南年代,http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+北京经典,http://live.funhillrm.com/4/sd/live.m3u8
+山东音乐,http://ls.qingting.fm/live/1665.m3u8
+陕西1055经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+湖南交通广播,http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
+金鹰955,http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+湖南汽车音乐,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+西江之声,http://sfy2011.hj0758.cn:8000/zb2020.mp3
+怀集音乐,http://sfy2011.hj0758.cn:8000/wx320.mp3
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+摇滚天空台,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+格莱美,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+Star Talk Radio,http://tunein.streamguys1.com/StarTalkRadio
+TED Talks,http://tunein.streamguys1.com/TEDTalks
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+潮流音悦台,http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+中国校园,http://starfish.bj.aliyun.001.qingting.fm:8000/zhongguoxiaoyuanzhisheng
+星河音乐台,http://stream.hndt.com/live/1061/playlist.m3u8
+Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
+New Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+Heart FM 乐动1056,http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
+青海交通音乐,http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+辽宁经典音乐,http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+福州音乐,http://live.zohi.tv/audio/s10001-FM893/index.m3u8
+哈尔滨古典,http://pull.hrbtv.net/tv/12.m3u8
+福建音乐,http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+黑龙江音乐,http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+江西音乐,http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+重庆音乐,http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+贵州都市,http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+贵州音乐,http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+海南音乐,http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+广东音乐之声,http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+河北音乐广播,http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+安徽音乐广播,http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+宁波音乐广播,http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+云南音乐广播,http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+广西经济广播,http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+广西音乐广播,http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+甘肃都市调频,http://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+陕西音乐广播,http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+甘肃青春调频,http://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8
+湖北经典音乐,http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+内蒙古音乐,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+山东经典音乐,http://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8
+山东音乐广播,http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
+山西音乐广播,rtmp://radiolive.sxrtv.com/live/yinyue
+苏州都市音乐,http://audio-live.radio.cn/live/szyy1/playlist.m3u8
+陕西好听1055,http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+重庆交通广播,http://satellitepull.cnr.cn/live/wxcqjtgb/playlist.m3u8
+重庆私家车广播,http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
+#EXTINF:-1 tvg-id="27"group-title="国内常听广播"
 深圳先锋,http://ls.qingting.fm/live/1270.m3u8
 深圳飞扬,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 深圳生活,http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
@@ -113,7 +183,7 @@ TED Talks,http://tunein.streamguys1.com/TEDTalks
 Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 New Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
 Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-#EXTINF:-1 tvg-id="27"group-title="综合广播"
+#EXTINF:-1 tvg-id="27"group-title="国内综合广播"
 深圳交通广播,http://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
 羊城交通广播,http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
 南方生活广播,http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
