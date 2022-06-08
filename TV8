@@ -29,6 +29,7 @@ NHK WORLD JAPAN,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯ТВTV蓝光,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
 #EXTINF:-1 tvg-id="27"group-title="境外华语广播"
+RTI华语,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
 RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
 RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
