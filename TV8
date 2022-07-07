@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-id="27"group-title="电视台"
+有线新闻HD,http://61.10.2.145/live_freedirect/freehd209_h.live/playlist.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?WithCaption
 有线新闻,https://api.leonardpark.dev/live/icable/109?WithCaption
 无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8?WithCaption
